@@ -1,5 +1,5 @@
-//[ == ] means Only value cheek.
-//& [ === ](Compaire korar jonno)  means  Value and type cheek.
+// [ == ] means Only value cheek.
+// & [ === ](Compaire korar jonno)  means  Value and type cheek.
 
 const first = 2;
 const second = "2"
@@ -63,8 +63,6 @@ if (first === second){                           //06.false (compare korar jonno
 else{
     console.log("condition false")
 }
-
-
 
 
 
